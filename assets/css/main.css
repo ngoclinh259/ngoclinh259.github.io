@@ -11,6 +11,7 @@
 .navbar.sticky {
     padding: 15px 0;
     background: var(--darkblue-color);
+    z-index: 999;
 }
 
 .navbar .max-width {
